@@ -7,7 +7,7 @@
 - [TP1][TP1]
 - [Introduction](#introduction)
 - [Méthode de dichotomie](#dichotomie)
-- [Méthode de point fixe](#point fixe)
+- [Méthode de point fixe](#pointfixe)
 - [Méthode de newton](#newton)
 - [Conclusion](#conclusion)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
