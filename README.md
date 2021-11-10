@@ -16,3 +16,9 @@
 * [Octave][oct]
 * [Jupyter][Jup]
 * [Googlecollabs][clb]
+[ANACONDA]: https://www.anaconda.com/products/individual
+[Jup]: https://jupyter.org/
+[oct]: https://www.gnu.org/software/octave/index
+[TP1]: https://github.com/nevermind78/NUM_ANALYSIS/tree/master/TP1
+[TP2]: https://github.com/nevermind78/NUM_ANALYSIS/tree/master/TP2
+[TP3]: https://github.com/nevermind78/NUM_ANALYSIS/tree/main/TP3
