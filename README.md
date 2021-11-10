@@ -16,7 +16,6 @@
 
 * [ANACONDA For windows][ANACONDA] 
 * [ANACONDA For Linux][ANACONDA]
-* [Octave][oct]
 * [Jupyter][Jup]
 ## Introduction
 On va installer Anaconda et Octave en local
@@ -26,6 +25,5 @@ On va installer Anaconda et Octave en local
 ## Conclusion
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
-[oct]: https://www.gnu.org/software/octave/index
 [TP1]: https://github.com/barketi-ahlem/analys-num/blob/main/Barketi%20Ahlem.ipynb
 
