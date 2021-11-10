@@ -22,7 +22,7 @@
 On va installer Anaconda et Octave en local
 ## Méthode de dichotomie
 ## Méthode de point fixe
-## Méthode de newton)
+## Méthode de newton
 ## Conclusion
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
