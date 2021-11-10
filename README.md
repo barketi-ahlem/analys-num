@@ -14,7 +14,7 @@
 * [Octave][oct]
 * [Jupyter][Jup]
 
-
+On va installer Anaconda et Octave en local
 
 
 [ANACONDA]: https://www.anaconda.com/products/individual
