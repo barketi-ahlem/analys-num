@@ -6,9 +6,9 @@
 - [Requirements](#requirements)
 - [TP1][TP1]
 - [Introduction](#introduction)
-- [Méthode de dichotomie](#Méthode de dichotomie)
-- [Méthode de point fixe](#Méthode de point fixe)
-- [Méthode de newton](#Méthode de newton)
+- [Méthode de dichotomie](#méthode de dichotomie)
+- [Méthode de point fixe](#méthode de point fixe)
+- [Méthode de newton](#méthode de newton)
 - [Conclusion](#conclusion)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
