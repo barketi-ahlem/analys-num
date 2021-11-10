@@ -6,6 +6,10 @@
 - [Requirements](#requirements)
 - [TP1][TP1]
 - [Introduction](#introduction)
+- [Méthode de dichotomie](#Méthode de dichotomie)
+- [Méthode de point fixe](#Méthode de point fixe)
+- [Méthode de newton](#Méthode de newton)
+- [Conclusion](#conclusion)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Requirements
@@ -16,8 +20,10 @@
 * [Jupyter][Jup]
 ## Introduction
 On va installer Anaconda et Octave en local
-
-
+## Méthode de dichotomie
+## Méthode de point fixe
+## Méthode de newton)
+## Conclusion
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
 [oct]: https://www.gnu.org/software/octave/index
