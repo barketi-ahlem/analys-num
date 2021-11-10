@@ -5,8 +5,6 @@
 
 - [Requirements](#requirements)
 - [TP1][TP1]
-- [TP2][TP2]
-- [TP3][TP3]
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Requirements
@@ -22,6 +20,5 @@
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
 [oct]: https://www.gnu.org/software/octave/index
-[TP1]: https://github.com/nevermind78/NUM_ANALYSIS/tree/master/TP1
-[TP2]: https://github.com/nevermind78/NUM_ANALYSIS/tree/master/TP2
-[TP3]: https://github.com/nevermind78/NUM_ANALYSIS/tree/main/TP3
+[TP1]: https://github.com/barketi-ahlem/analys-num/blob/main/Barketi%20Ahlem.ipynb
+
