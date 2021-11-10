@@ -5,7 +5,7 @@
 
 - [Requirements](#requirements)
 - [TP1][TP1]
--  [introduction](#introduction)
+- [Introduction](#introduction)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Requirements
@@ -14,7 +14,7 @@
 * [ANACONDA For Linux][ANACONDA]
 * [Octave][oct]
 * [Jupyter][Jup]
-
+## Introduction
 On va installer Anaconda et Octave en local
 
 
