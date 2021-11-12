@@ -35,7 +35,11 @@ pour eviter la recherche des locales I on a un théoreme de convergence globale 
 =>xn converge globalement 
 -g'(alpha)=0 => l'ordre de convergence est au moins 2(quatratique)
 ## Conclusion
-la méthode de newton est plus rapide que la méthode de la dichotomie
+*la méthode de newton est plus rapide que la méthode de la dichotomie
+*la méthode de dichotomie toujours converge 
+*la méthode 
+
+
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
 [TP1]: https://github.com/barketi-ahlem/analys-num/blob/main/Barketi%20Ahlem.ipynb
