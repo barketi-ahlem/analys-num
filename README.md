@@ -41,4 +41,5 @@
 
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
-[tp1]:https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fbarketi-ahlem%2Fanalys-num/HEAD
+
+[tp1]:https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fbarketi-ahlem%2Fanalys-num/f4d9dc2f956850e17708ecaccd83a3c6fd87bdbf?urlpath=lab%2Ftree%2FBarketi%20Ahlem.ipynb
