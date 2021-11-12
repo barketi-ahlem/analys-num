@@ -7,8 +7,8 @@
 - [TP1][TP1]
 - [Introduction](#introduction)
 - [dichotomie](#dichotomie)
-- [Méthode de point fixe](#pointfixe)
-- [Méthode de newton](#newton)
+- [point fixe](#point_fixe)
+- [newton](#newton)
 - [Conclusion](#conclusion)
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -20,8 +20,8 @@
 ## Introduction
 On va installer Anaconda et Octave en local
 ## dichotomie
-## Méthode de point fixe
-## Méthode de newton
+## point_fixe
+## newton
 ## Conclusion
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
