@@ -27,15 +27,15 @@ consiste à élaborer un schéma itératif, en l’occurence une suite convergen
 la solution de l’équation f(x)=0.
 ## newton
 pour eviter la recherche des locales I on a un théoreme de convergence globale de la méthode de newton
-.)f continu sur a,b]
-.)f(a)f(b)<0
-.)f'(x) différent de zero
-.)f''(x) différent de zero
-.)f(x0)f"(x0)>0
+-f continu sur a,b]
+-f(a)f(b)<0
+-f'(x) différent de zero
+-f"(x) différent de zero
+-f(x0)f"(x0)>0
 =>xn converge globalement 
-.)g'(alpha)=0 => l'ordre de convergence est au moins 2(quatratique)
-.)la méthode de newton est plus rapide que la méthode de la dichotomie
+-g'(alpha)=0 => l'ordre de convergence est au moins 2(quatratique)
 ## Conclusion
+la méthode de newton est plus rapide que la méthode de la dichotomie
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
 [TP1]: https://github.com/barketi-ahlem/analys-num/blob/main/Barketi%20Ahlem.ipynb
