@@ -6,7 +6,7 @@
 - [Requirements](#requirements)
 - [TP1][TP1]
 - [Introduction](#introduction)
-- [Méthode de dichotomie](#dichotomie)
+- [dichotomie](#dichotomie)
 - [Méthode de point fixe](#pointfixe)
 - [Méthode de newton](#newton)
 - [Conclusion](#conclusion)
