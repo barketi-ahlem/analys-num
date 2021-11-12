@@ -18,7 +18,8 @@
 * [ANACONDA For Linux][ANACONDA]
 * [Jupyter][Jup]
 ## Introduction
-> On va installer Anaconda et Octave en local
+> Analytiquement on ne peut pas donner la valeur exacte de alpha.C'est pour quoi on a recours à des méthode itérative pour espérer a donner une valeur approché de alpha.
+> On a 3 méthodes de recherche itératives la premiére méthode de dichotomie la deuxiéme méthode de poit fixe et la derniére la méthode de newton.
 ## dichotomie
 > La méthode de dichotomie ou méthode de la bissection est, en mathématiques, un algorithme de recherche d'un zéro d'une fonction qui consiste à répéter des partages d'un intervalle en deux parties puis à sélectionner le sous-intervalle dans lequel existe un zéro de la fonction.
 ## point_fixe
