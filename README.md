@@ -19,7 +19,7 @@
 * [Jupyter][Jup]
 ## Introduction
 On va installer Anaconda et Octave en local
-## Méthode de dichotomie
+## dichotomie
 ## Méthode de point fixe
 ## Méthode de newton
 ## Conclusion
