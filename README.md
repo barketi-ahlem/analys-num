@@ -17,6 +17,7 @@
 * [ANACONDA For windows][ANACONDA] 
 * [ANACONDA For Linux][ANACONDA]
 * [Jupyter][Jup]
+* si vous cliquez sur TP1 le fichier sera ouvert sur le jupyter lab .
 ## Introduction
 > Analytiquement on ne peut pas donner la valeur exacte de alpha.C'est pour quoi on a recours à des méthode itérative pour espérer a donner une valeur approché de alpha.
 > On a 3 méthodes de recherche itératives la premiére méthode de dichotomie la deuxiéme méthode de poit fixe et la derniére la méthode de newton.
