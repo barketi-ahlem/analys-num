@@ -5,6 +5,7 @@
 
 - [Requirements](#requirements)
 - [TP1][TP1] si vous cliquez sur TP1 le fichier sera ouvert sur le jupyter lab .
+- [TP2][TP2]
 - [Introduction](#introduction)
 - [dichotomie](#dichotomie)
 - [point fixe](#point_fixe)
