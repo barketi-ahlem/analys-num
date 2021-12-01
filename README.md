@@ -16,7 +16,7 @@
 * [ANACONDA For windows][ANACONDA] 
 * [ANACONDA For Linux][ANACONDA]
 * [Jupyter][Jup]
-* 
+
 [ANACONDA]: https://www.anaconda.com/products/individual
 [Jup]: https://jupyter.org/
 
