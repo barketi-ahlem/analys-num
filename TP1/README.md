@@ -5,10 +5,10 @@
  - [Dichotomie](#Dichotomie)
  - [pointfixe](#pointfixe)
  - [Newton](#Newton)
- - [coclusion](#conclusion)
+ - [conclusion](#conclusion)
   # Introduction
   > Pour résoudrel'équation linéaire f(x)=0 on peut utiliser 3 méthodes itératives qui sont :
-  > - la méthode de newton
+  > - la méthode de newton \n
   > -la méthode de point fixe
   > -la méthode de dichotomie
   > C'est méthodes se basent sur la construction d'une suite(xn) dont le but q"elle converge vers α.
@@ -29,6 +29,6 @@
 # Newton
 > La méthode de Newton est une méthode de point fixe avec pour application g: g(x)=x−f(x)f′(x)".
 > On voit clairement que rechercher un point fixe de l’application g revient à chercher une solution de l’équation
-#conclusion
+# conclusion
 > Analytiquement on ne peut pas donner la valeur exacte de telle α.
 > c'est pourquoi on a recours à des méthodes itératives pour espérer a donner une valeur approché de α.
