@@ -21,5 +21,5 @@
 > En effet, elle doit être contractante dans un voisinage I de alpha, ce qui revient à vérifier que ∣g'(x)∣<1 sur ce voisinage. 
 > Dans ce cas, on construit une suite (xn)n∈ N définie par:{x0 dans un voisinage Ieα∀n≥0,xn+1=g(xn)
 # Newton
-La méthode de Newton est une méthode de point fixe avec pour application $$g: g(x)=x−f(x)f′(x)$$
-On voit clairement que rechercher un point fixe de l’application g revient à chercher une solution de l’équation
+> La méthode de Newton est une méthode de point fixe avec pour application "$$g: g(x)=x−f(x)f′(x)$$\n".
+> On voit clairement que rechercher un point fixe de l’application g revient à chercher une solution de l’équation
