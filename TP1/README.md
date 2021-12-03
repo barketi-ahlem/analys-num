@@ -1,4 +1,4 @@
-# analys-num
+# TP1
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 - [Introduction](#introduction)
@@ -6,3 +6,18 @@
  - [pointfixe](#pointfixe)
  - [Newton](#Newton)
   # Introduction
+  # Dichotomie
+ > Considérons une fonction f continue sur un intervalle [a,b].On suppose que f admet une et une seule racine alpha dans [a,b]
+ > et que f(a)f(b)<0. On note
+ > c= a+b/2 le milieu de l'intervalle.
+ > Si f(c)=0,c'est la racine de f et le problème est résolu.
+ > Si f(c)≠0,nous regardons le signe de f(a)f(c)
+      > Si f(a)f(c)<0,alors α∈]a,c[
+      > Si f(c)f(c)<0,alors α∈]c,b[
+#point fixe
+> Le principe de cette méthode consiste à transformer l'équation 
+> f(x)=0 en une équation équivalente g(x)=x où g est une fonction auxiliaire "bien" choisie. Le point alpha est alors un point fixe de g. 
+> Approcher les zéros de f revient à approcher les points fixes de g. Le choix de la fonction g est motivé par les exigences du théorème de point fixe.
+> En effet, elle doit être contractante dans un voisinage I de alpha, ce qui revient à vérifier que ∣g'(x)∣<1 sur ce voisinage. 
+> Dans ce cas, on construit une suite (xn)n∈ N définie par:{x0 dans un voisinage Ieα∀n≥0,xn+1=g(xn)
+
