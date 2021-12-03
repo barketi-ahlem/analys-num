@@ -9,6 +9,6 @@
   # Introduction
 > En analyse numérique, les polynômes de Lagrange, du nom de Joseph-Louis Lagrange, permettent d'interpoler une série de points par un polynôme qui passe exactement par ces points appelés aussi nœuds.
 > <p align="center">
-  <img src="C:/Users/serviceinfo/Documents/image/1.jpg" width="350" title="hover text">
-  <img src="C:/Users/serviceinfo/Documents/image/2.jpg" width="350" alt="accessibility text">
+  <img src="C:/Users/serviceinfo/Documents/image/1.jpg" width="350">
+  <img src="C:/Users/serviceinfo/Documents/image/2.jpg" width="350">
 </p>
