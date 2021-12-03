@@ -8,9 +8,9 @@
  - [conclusion](#conclusion)
   # Introduction
   > Pour résoudrel'équation linéaire f(x)=0 on peut utiliser 3 méthodes itératives qui sont :
-  > - la méthode de newton \n
-  > -la méthode de point fixe
-  > -la méthode de dichotomie
+  > - la méthode de newton.
+  > - la méthode de point fixe.
+  > - la méthode de dichotomie.
   > C'est méthodes se basent sur la construction d'une suite(xn) dont le but q"elle converge vers α.
   # Dichotomie
  > Considérons une fonction f continue sur un intervalle [a,b].On suppose que f admet une et une seule racine alpha dans [a,b]
