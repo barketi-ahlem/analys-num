@@ -3,7 +3,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 - [Introduction](#introduction)
  - [Dichotomie](#Dichotomie)
- - [pointfixe](#pointfixe)
+ - [point fixe](#point fixe)
  - [Newton](#Newton)
   # Introduction
   # Dichotomie
