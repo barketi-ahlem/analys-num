@@ -5,7 +5,13 @@
  - [Dichotomie](#Dichotomie)
  - [pointfixe](#pointfixe)
  - [Newton](#Newton)
+ - [coclusion](#conclusion)
   # Introduction
+  > Pour résoudrel'équation linéaire f(x)=0 on peut utiliser 3 méthodes itératives qui sont :
+  > - la méthode de newton
+  > -la méthode de point fixe
+  > -la méthode de dichotomie
+  > C'est méthodes se basent sur la construction d'une suite(xn) dont le but q"elle converge vers α.
   # Dichotomie
  > Considérons une fonction f continue sur un intervalle [a,b].On suppose que f admet une et une seule racine alpha dans [a,b]
  > et que f(a)f(b)<0. On note
@@ -21,5 +27,8 @@
 > En effet, elle doit être contractante dans un voisinage I de alpha, ce qui revient à vérifier que ∣g'(x)∣<1 sur ce voisinage. 
 > Dans ce cas, on construit une suite (xn)n∈ N définie par:{x0 dans un voisinage Ieα∀n≥0,xn+1=g(xn)
 # Newton
-> La méthode de Newton est une méthode de point fixe avec pour application # g: g(x)=x−f(x)f′(x)".
+> La méthode de Newton est une méthode de point fixe avec pour application g: g(x)=x−f(x)f′(x)".
 > On voit clairement que rechercher un point fixe de l’application g revient à chercher une solution de l’équation
+#conclusion
+> Analytiquement on ne peut pas donner la valeur exacte de telle α.
+> c'est pourquoi on a recours à des méthodes itératives pour espérer a donner une valeur approché de α.
