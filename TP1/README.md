@@ -3,7 +3,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 - [Introduction](#introduction)
  - [Dichotomie](#Dichotomie)
- - [point fixe](#point fixe)
+ - [pointfixe](#pointfixe)
  - [Newton](#Newton)
   # Introduction
   # Dichotomie
@@ -14,7 +14,7 @@
  > Si f(c)≠0,nous regardons le signe de f(a)f(c)
       > Si f(a)f(c)<0,alors α∈]a,c[
       > Si f(c)f(c)<0,alors α∈]c,b[
-#point fixe
+# pointfixe
 > Le principe de cette méthode consiste à transformer l'équation 
 > f(x)=0 en une équation équivalente g(x)=x où g est une fonction auxiliaire "bien" choisie. Le point alpha est alors un point fixe de g. 
 > Approcher les zéros de f revient à approcher les points fixes de g. Le choix de la fonction g est motivé par les exigences du théorème de point fixe.
