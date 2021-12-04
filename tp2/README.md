@@ -3,7 +3,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Introduction](#introduction)
- - [interpolation de lagrange](#interpolation de lagrange)
+ - [interpolation de lagrange](# interpolation de lagrange)
  - [FormedeNewton](#FormedeNewton)
  - [conclusion](#conclusion)
   # Introduction
