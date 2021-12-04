@@ -3,7 +3,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 - [Introduction](#introduction)
-- [interpolation de la grange](#interpolation de la grange)
+- [interpolation de la grange](#interpolation)
 - [FormedeNewton](#FormedeNewton)
 - [conclusion](#conclusion)
   # Introduction
@@ -11,7 +11,7 @@
 > Le problème de l’approximation d’une fonction f intervient dans plusieurs situations,comme par exemple :
 > 1) la fonction f(x) est connue, mais difficile a manipuler. L’approximation a pour but de remplacer f par une fonction plus simple, Π(f), qui est plus accessible pour           >    l’integration.
 > 2) la fonction f(x) n’est pas connue, on ne connaˆıt que les valeurs dans certains points xi.Le but de l’approximation est alors de trouver une représentation synthétique       >   (analytique)des données experimantales.
-# interpolation de la grange
+# interpolation
 > le but de l’interpolation est de trouver une fonction Π(x), qui appartient a une certaine classe et qui prend dans les noeuds d’interpolation xi les valeurs yi.
 > Soit a = x0 ≤ · · · ≤ xi ≤ · · · ≤ xn = b une division de l’intervalle [a,b], des valeurs correspondantes. Le probléme est de trouver un polynôme de degré inférieur ou égale à > m, Πm ∈ Pm, appelé polynôme d’interpolation, vérifiant Πm(xi) = yi, ∀i. Posé sous cette forme, ce probléme peut avoir un nombre infini de solutions, une seule solution ou       >   aucune. Toutefois, il y a une et une seule solution, si on cherche cette solution dans l’espace Pn (m = n).
 # FormedeNewton
