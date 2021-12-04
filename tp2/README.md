@@ -4,7 +4,7 @@
 
 - [Introduction](#introduction)
 - [interpolation de la grange](#interpolation)
-- [FormedeNewton](#FormedeNewton)
+- [Forme de Newton](#Newton)
 - [conclusion](#conclusion)
   # Introduction
 > En analyse numérique, les polynômes de Lagrange, du nom de Joseph-Louis Lagrange, permettent d'interpoler une série de points par un polynôme qui passe exactement par ces points appelés aussi nœuds.
@@ -14,7 +14,7 @@
 # interpolation
 > le but de l’interpolation est de trouver une fonction Π(x), qui appartient a une certaine classe et qui prend dans les noeuds d’interpolation xi les valeurs yi.
 > Soit a = x0 ≤ · · · ≤ xi ≤ · · · ≤ xn = b une division de l’intervalle [a,b], des valeurs correspondantes. Le probléme est de trouver un polynôme de degré inférieur ou égale à > m, Πm ∈ Pm, appelé polynôme d’interpolation, vérifiant Πm(xi) = yi, ∀i. Posé sous cette forme, ce probléme peut avoir un nombre infini de solutions, une seule solution ou       >   aucune. Toutefois, il y a une et une seule solution, si on cherche cette solution dans l’espace Pn (m = n).
-# FormedeNewton
+# Newton
 > La forme de Lagrange du polynôme d’interpolation n’est pas la plus commode d’un point de vue pratique. 
 > D’aprés le théoréme d’existence et unicité du polynôme d’interpolation, le polynôme d’interpolation de Newton n’est rien d’autre qu’une autre forme du polynôme de
 > Lagrange. L’avantage de la formule de Newton est que les différences divisées sont invariantes par rapport à la permutation des noeuds. Par consequent, pour rajouter un
