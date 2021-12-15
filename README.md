@@ -9,6 +9,7 @@
 - [TP1][TP1]
 - [TP2][TP2]
 - [TP3][TP3]
+- [demos][demos]
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Requirements
