@@ -9,5 +9,6 @@
 # méthode de simpson:
 >Pour obtenir la formule de Simpson, on va réaliser une interpolation avec un polynôme de degré 2. Un polynôme étant une fonction très facile à intégrer, on approche l’intégrale >de la fonction  sur l’intervalle , par l’intégrale du polynôme sur ce même intervalle.
 # méthode de point milieu:
->voila la démentstration de calcule de chaque méthode:
+>voila la démentstration de calcule de chaque méthode
+
 ![Alt Text](demos.gif)
